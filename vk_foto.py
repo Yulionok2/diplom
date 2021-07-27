@@ -81,3 +81,4 @@ class VKPhoto:
 
 Apivk = VKPhoto()
 Apivk.list_photo()
+Apivk.upload_YA()
